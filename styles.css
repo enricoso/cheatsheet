@@ -5,6 +5,7 @@
  td, tr {
      border-style: hidden;
      border-radius: 5px;
+     grid-auto-rows: auto;
  }
  th, td {
     border-radius: 5px;
@@ -37,7 +38,7 @@ h1 {
     background-color: ivory;
 }
 .fix-width {
-    width: 35%;
+    width: 10%;
 }
 div {
     border-radius: 10px;
