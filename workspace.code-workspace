@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Esempi Python"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cheatsheet"
+	}
+}
