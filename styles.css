@@ -16,6 +16,9 @@
     background-color: lightgray;
 
 }
+table {
+    margin: auto;
+}
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
     background-color: slategray;
@@ -34,7 +37,7 @@ h1 {
     background-color: ivory;
 }
 .fix-width {
-    width: 40%;
+    width: 35%;
 }
 div {
     border-radius: 10px;
