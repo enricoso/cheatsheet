@@ -1,0 +1,46 @@
+ 
+ th {
+     border-style: double;
+ }
+ td, tr {
+     border-style: hidden;
+     border-radius: 5px;
+ }
+ th, td {
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    font-family: 'monospace', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    font-size: larger;
+    display: table-cell;
+    background-color: lightgray;
+
+}
+table {
+    margin: auto;
+}
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
+    background-color: slategray;
+}
+h1 {
+    border-radius: 10px;
+    text-align: center;
+    background-color: ivory;
+}
+.center-table {
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+.symbol {
+    background-color: ivory;
+}
+.fix-width {
+    width: 40%;
+}
+div {
+    border-radius: 10px;
+    text-align: center;
+    background-color: lightgrey;
+}
