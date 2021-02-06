@@ -10,7 +10,7 @@
     padding: 10px;
     text-align: center;
     font-family: 'monospace', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
-    font-size: small;
+    
     display: table-cell;
     background-color: lightgray;
 
@@ -22,7 +22,7 @@ table {
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
     background-color: slategray;
-    font-size: small;
+    
 }
 h1 {
     border-radius: 10px;
