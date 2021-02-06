@@ -37,7 +37,7 @@ thead th:nth-child(1) {
   }
 html {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, monospace;
-    background-color: slategray;
+    background-color: brown;
 }
 h1 {
     border-radius: 10px;
